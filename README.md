@@ -1,0 +1,2 @@
+# HNGInternship5
+This repository contains files as pertaining to the tasks contained in the HNG intership for 2019, the 5th Cycle.
